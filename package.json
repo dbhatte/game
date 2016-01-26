@@ -1,0 +1,27 @@
+{
+  "name": "testgame",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.13.4",
+    "node": "^0.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dbhatte/game.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "Devendra Bhatte",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dbhatte/game/issues"
+  },
+  "homepage": "https://github.com/dbhatte/game#readme"
+}
